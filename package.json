@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-base-de-ddatos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanono09/Proyecto-Base-de-ddatos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanono09/Proyecto-Base-de-ddatos/issues"
+  },
+  "homepage": "https://github.com/hanono09/Proyecto-Base-de-ddatos#readme"
+}
